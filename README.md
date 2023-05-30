@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcio Bartolomeu</h1>
 <h3 align="center">Web_developer {M,E,R,N} = Javascript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcio-py&label=Profile%20views&color=0e75b6&style=flat" alt="marcio-py" /> </p>
 
 - 🔭 I’m currently working on ** a Full-stack Ecommerce**
 
