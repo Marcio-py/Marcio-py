@@ -2,7 +2,7 @@
 <h3 align="center">Web_developer {M,E,R,N} = Javascript</h3>
 
 
-- 🔭 I’m currently working on ** a Full-stack Ecommerce**
+- 🔭 I’m currently working on **a Full-stack Ecommerce**
 
 - 🌱 I’m currently learning **C# & SQL Server**
 
