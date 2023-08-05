@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full-stack Ecommerce**
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **JS, React.**
 
