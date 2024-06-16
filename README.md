@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcio Bartolomeu</h1>
 <h3 align="center">Web_developer {M,E,R,N} = Javascript</h3>
 
-- 🔭 I’m currently working on **Full-stack Ecommerce**
+- 🔭 I’m currently working on **it is a secret**
 
-- 🌱 I’m currently learning **(Curious) About Angular**
+- 🌱 I’m currently learning **Back End development with C#**
 
-- 💬 Ask me about **JS/NodeJs/React.**
+- 💬 Ask me about **JS or C#.**
 
 - 📫 How to reach me **marcio1961.ma@gmail.com**
 
